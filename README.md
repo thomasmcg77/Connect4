@@ -8,6 +8,14 @@ Two users will play against each other in a game of Connect 4. The objective of 
 ------------------
 This is a project for my CSCI 2300 - Object Oriented Software Design course at Saint Louis University. It was developed by Thomas McGuigan (me), Katherine Sweet, and Robert Lanier.
 
+### Screenshots
+------------------
+#### Pre-Game Setup
+![alt text](https://github.com/thomasmcg77/Connect4/blob/main/Screenshots/Screenshot%202021-06-09%20141627.jpg)
+
+#### Post-Game
+![alt text](https://github.com/thomasmcg77/Connect4/blob/main/Screenshots/Screenshot%202021-06-09%20141758.jpg)
+
 ### Functional Requirements
 ------------------
 FR1: At the start of the game, two players enter a username to be either the red or black circular chips.
